@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Agentic AI Research Assistant** is a production-style agentic AI system developed progressively alongside the **Krish Naik Complete Agentic AI** course. 
+The **Agentic AI Research Assistant** is a production-style agentic AI system developed. 
 
 The goal of this repository is to learn and implement modern agentic patterns methodically, starting from basic prompt engineering and structured LLM outputs, through autonomous tool-calling agents, memory, and RAG architectures, up to multi-agent collaboration, guardrails, evaluation, and production deployment.
 
